@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection – End-to-End Data Science Portfolio Project
+# Credit Card Fraud Detection – End-to-End Date Science Project
 
 ![Fraud Detection Banner](https://img.shields.io/badge/machine%20learning-fraud%20detection-blue) 
 
